@@ -4,3 +4,4 @@ Rencana belajar mandiri apa aja di Semester 2 :
 - Buat sebuah project Arduino Uno
 - Buat UI/UX untuk Arduino Uno
 - Buat project lagi, dan UI/UX nya ada
+- Mengenal lebih tentang Arduino Uno
