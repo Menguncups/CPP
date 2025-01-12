@@ -4,3 +4,4 @@ Cups Resolusi
 - Ekplore lebih tentang Arduino Uno
 - Lebih mengatur penyimpanan file hp dan laptop
 - Mencari relasi yang berkaitan dengan IT
+- Ngedesign dan belajar UI/UX aplikasi untuk Arduino Uno
